@@ -1,5 +1,3 @@
-
-
 # Intervalos de Confiança - Questão 1
 
 import math
@@ -21,7 +19,6 @@ def normal_distribution_cdf(x1, x2){
     return abs(result_x2-result_x1)
 
     
-
 
 def main():
     numeros = [1,2,3,4,5,6,7,8,9,10,10]
