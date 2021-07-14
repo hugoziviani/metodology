@@ -3,7 +3,7 @@
 import statistics
 import math
 
-def statistic(data_1, data_2) {
+def statistic(data_1, data_2):
     s = len(data_1)+len(data_2)
     st1 = statistics.stdev(data_1)
     st2 = statistics.stdev(data_1)
