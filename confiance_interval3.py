@@ -1,3 +1,4 @@
+# Intervalos de Confiança - Questão 3
 
 from confiance_interval2 import *
 
